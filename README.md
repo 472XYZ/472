@@ -12,7 +12,6 @@
 ## Features
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
-- [x] - [VideoCrash Maker](https://github.com/AstraaDev/Discord-VideoCrashMaker) - Convert a video into an identical video that makes Crash discord app when played.
 - [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
 - [x] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
 - [x] - [Token Informations](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord User with his Token.
@@ -24,7 +23,6 @@
 - [x] - [Group SPammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to spam the group creation and add users to it.
 - [x] - [WebHooks Spammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spam the message you want through a WebHooks.
 - [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
-- [ ] 
 
 
  
