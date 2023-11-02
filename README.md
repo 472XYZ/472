@@ -32,7 +32,3 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 You dont need to install any modules opening setup.bat will install them for you. Then you need to open builder.pyw which will
 open the gui.
-```
-
-```
-
