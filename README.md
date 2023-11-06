@@ -20,7 +20,7 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/472.xyz/imretarded)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/472XYZ/472/archive/refs/heads/main.zip)
 
 
 ## Features
