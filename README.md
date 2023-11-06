@@ -49,7 +49,7 @@ Download the tool and extract it from the zip file.
 
 ### Step 3: Run the Setup
 
-Execute `setup.bat`. When prompted, type 'y' to complete the setup process. Wait for the setup to finish.
+Execute `setup.bat`. When prompted, type 'y' to complete the setup process. Please be aware that the setup may take at least 40 seconds due to code obfuscation and the download of the ChromeDriver which will be used with certain features.
 
 ### Step 4: Start the GUI
 
