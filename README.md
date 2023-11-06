@@ -3,10 +3,9 @@
 </h1>
 
 <div align="center">
-  <img  src="https://media.discordapp.net/attachments/1166472150371270777/1170824783999541390/image.png?ex=655a728d&is=6547fd8d&hm=326fdca3c86bdd544e211fc3539e8b115aa020af7560b67a1aaf2f9142f6e528&">
+  <img src="https://media.discordapp.net/attachments/1166472150371270777/1170824783999541390/image.png?ex=655a728d&is=6547fd8d&hm=326fdca3c86bdd544e211fc3539e8b115aa020af7560b67a1aaf2f9142f6e528&">
   <br>
-  <img  
-  <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
+  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
 </div>
 
 ## Disclaimer
@@ -19,14 +18,8 @@ By downloading and using this tool, you acknowledge and agree to the following:
 
 Please use this tool responsibly and in compliance with all applicable laws and regulations.
 
-
-
-
-
-
-
-
 ## Features
+
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
 - [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
@@ -42,25 +35,18 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 - [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
 - [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Gives you a Active Developer Badge 
 
- 
-<hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
-  
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
+
 ## Installation
 
 ### 1. Download Python:
 
-```
-Make sure you have Python installed 3.11+ and it is added to your path
-```
+Make sure you have Python installed 3.11+ and it is added to your path.
+
 ### 2. Download The Files:
 
-```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
-```
+
 ### 3. Open The setup.bat File:
 
-```
-You dont need to install any modules opening setup.bat will install them for you. Then you need to open builder.pyw which will
-open the gui.
-
-
+You dont need to install any modules opening setup.bat will install them for you. Then you need to open builder.pyw which will open the gui.
