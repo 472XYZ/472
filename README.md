@@ -13,7 +13,7 @@
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
 - [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
-- [] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
+- [ ] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
 - [x] - [Token Informations](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord User with his Token.
 - [x] - [Tokens Checker](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Allows you to check the validity of a list of tokens quickly.
 - [x] - [Clear DM](https://github.com/Da532/Clear) - Delete all your messages sent to a person in dm automatically.
