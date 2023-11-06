@@ -18,6 +18,11 @@ By downloading and using this tool, you acknowledge and agree to the following:
 
 Please use this tool responsibly and in compliance with all applicable laws and regulations.
 
+## Download
+
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/472.xyz/imretarded)
+
+
 ## Features
 
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
