@@ -35,7 +35,7 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 - [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
 - [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Gives you an Active Developer Badge.
 
-Please be aware that there are two versions available, one for Linux and one for Windows. The Linux version does not contain phishing attacks. However, the Windows version does contain phishing attacks.
+Please be aware that there are two versions available, one for Linux and one for Windows. The Linux version does contain phishing attack tool. However, the Windows version doesn't contain phishing attack tool.
 
 ## Installation
 
