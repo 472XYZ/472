@@ -9,6 +9,23 @@
   <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
 </div>
 
+## Disclaimer
+
+By downloading and using this tool, you acknowledge and agree to the following:
+
+1. We are not responsible for any consequences resulting from the use of this tool, including but not limited to banned Discord accounts or any other associated issues.
+
+2. This tool may collect and store your Hardware ID (HWID) and computer name for analytics and usage counting purposes. This information will be used solely for internal analysis and will not be shared with third parties.
+
+Please use this tool responsibly and in compliance with all applicable laws and regulations.
+
+
+
+
+
+
+
+
 ## Features
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
