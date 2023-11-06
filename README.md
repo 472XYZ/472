@@ -23,7 +23,7 @@
 - [x] - [Group SPammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to spam the group creation and add users to it.
 - [x] - [WebHooks Spammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spam the message you want through a WebHooks.
 - [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
-- [x] - [Active developer badge](https://github.com/AstraaDev/Discord-All-Tools-In-One
+- [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One
 
  
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
