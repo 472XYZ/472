@@ -22,20 +22,20 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 
 - [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
 - [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
-- [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create serveurs, change the settings of a user with his Token.
-- [ ] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one.
+- [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create servers, change the settings of a user with his Token.
+- [ ] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one
 - [x] - [Token Informations](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord User with his Token.
 - [x] - [Tokens Checker](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Allows you to check the validity of a list of tokens quickly.
 - [x] - [Clear DM](https://github.com/Da532/Clear) - Delete all your messages sent to a person in dm automatically.
 - [x] - [HypeSquad House Changer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Select your HypeSquad House.
-- [x] - [Server Lookup](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord Server with a Invite Link.
-- [x] - [Mass DM](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows to DM all friends of the person by sending them the same message.
+- [x] - [Server Lookup](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord Server with an Invite Link.
+- [x] - [Mass DM](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to DM all friends of the person by sending them the same message.
 - [x] - [Group SPammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to spam the group creation and add users to it.
 - [x] - [WebHooks Spammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spam the message you want through a WebHooks.
 - [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
-- [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Gives you a Active Developer Badge 
+- [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Gives you an Active Developer Badge.
 
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
+Please be aware that there are two versions available, one for Linux and one for Windows. The Linux version does not contain phishing attacks. However, the Windows version does contain phishing attacks.
 
 ## Installation
 
