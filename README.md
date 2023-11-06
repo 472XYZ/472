@@ -45,3 +45,6 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 You dont need to install any modules opening setup.bat will install them for you. Then you need to open builder.pyw which will
 open the gui.
+
+
+https://media.discordapp.net/attachments/1166472150371270777/1170824783999541390/image.png?ex=655a728d&is=6547fd8d&hm=326fdca3c86bdd544e211fc3539e8b115aa020af7560b67a1aaf2f9142f6e528&
