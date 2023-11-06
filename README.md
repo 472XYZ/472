@@ -39,14 +39,20 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 
 ## Installation
 
-### 1. Download Python:
+### Step 1: Download and Install Python 3.10+
 
-Make sure you have Python installed 3.11+ and it is added to your path.
+Ensure you have Python version 3.10 or higher installed. If not, download and install it from the [official Python website](https://www.python.org/downloads/).
 
-### 2. Download The Files:
+### Step 2: Download and Extract the Tool
 
-Once you've downloaded the files extract the folder so it's no longer a .zip file.
+Download the tool and extract it from the zip file.
 
-### 3. Open The setup.bat File:
+### Step 3: Run the Setup
 
-You dont need to install any modules opening setup.bat will install them for you. Then you need to open builder.pyw which will open the gui.
+Execute `setup.bat`. When prompted, type 'y' to complete the setup process. Wait for the setup to finish.
+
+### Step 4: Start the GUI
+
+Run `start.bat` to open the GUI. When you see the setup page, ignore it and type `>`. This will take you to the feature page.
+
+Note: During the installation process, Discord may reboot due to Python installation or the addition of a Discord module.
