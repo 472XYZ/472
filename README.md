@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="pornhub.com/logos.png&">
+  <img src="https://media.tenor.com/euiGfIPJofcAAAAd/end-of-watch-locker-scene-jake-gyllenhaal.gif&">
   <br>
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade size="20" width="100%">
 </div>
@@ -44,9 +44,9 @@ Please be aware that there are two versions available, one for Linux and one for
 
 ## Installation
 
-### Step 1: Download and Install Python 3.10+
+### Step 1: Download and Install Python 3.11+
 
-Ensure you have Python version 3.10 or higher installed. If not, download and install it from the [official Python website](https://www.python.org/downloads/).
+Ensure you have Python version 3.11 or higher installed. If not, download and install it from the [official Python website](https://www.python.org/downloads/).
 
 ### Step 2: Download and Extract the Tool
 
