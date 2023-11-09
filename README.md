@@ -54,7 +54,7 @@ Download the tool and extract it from the zip file.
 
 ### Step 3: Finish the setup in the panel
 
-Execute `setup.bat`. When prompted, type 'y' to complete the setup process. Please be aware that the setup may take at least 40 seconds due to code obfuscation and the download of the ChromeDriver which will be used with certain features.
+Execute `setup.bat`. When prompted, type '1' to complete the setup process. Please be aware that the setup may take at least 40 seconds due to code obfuscation and the download of the ChromeDriver which will be used with certain features.
 (the finishsetup.py file will delete itself after downloading every module and chromedriver.exe soo there would be less chance to mess up the setup)
 
 ### Step 4: Start the GUI
